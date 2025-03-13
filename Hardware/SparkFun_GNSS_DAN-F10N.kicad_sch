@@ -10772,7 +10772,7 @@
 		)
 		(uuid "2bad48ff-d0a6-4612-b3d4-a4769d64fd47")
 	)
-	(text "Coplanar Waveguide Calculation:\nCopper Thickness (1oz): 1.4mil/0.035mm\nBoard Layers: 2\nBoard Thickness: 1.6mm\nDielectric Thickness: 1.53mm\nEr: 4.6\nPolygon Isolation: 6mil/0.1524mm\nRF Trace Width: 39mil/1.0mm\nhttps://chemandy.com/calculators/coplanar-waveguide-with-ground-calculator.htm"
+	(text "Microstrip (Coplanar Single Ended) 50Ω Calculation:\nhttps://jlcpcb.com/pcb-impedance-calculator\nBoard thickness: 1.6mm\nLayers: 4\nEr: 4.4 (7628 Prepreg)\nDielectric Thickness (Layer 1 to 2): 8.28mil/0.2104mm (JLC7628)\nCopper Thickness (1oz outer / 0.5oz inner): 1.38mil/0.035mm\nPolygon Isolation: 7mil/0.1778mm\nTrace Width: 11.1mil/0.2819mm\n"
 		(exclude_from_sim no)
 		(at 250.19 166.37 0)
 		(effects

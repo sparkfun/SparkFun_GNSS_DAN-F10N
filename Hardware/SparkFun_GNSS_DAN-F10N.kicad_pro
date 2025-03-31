@@ -58,13 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|175780353|116305063|2694e774-c1ec-4c5e-bbbe-3cc4cf88cc4c|61aa0ed3-558f-4c6d-9e62-dd57c48bd5c1",
-        "hole_clearance|169130000|108902500|04c0b22f-9626-4a08-897e-26e4b2f7ab38|9487ad99-a547-44e6-97e4-11478199ffa7",
-        "hole_clearance|171230000|108902500|04c0b22f-9626-4a08-897e-26e4b2f7ab38|44faf640-fc87-491f-80ea-9cc2cbb48add",
-        "solder_mask_bridge|169130000|108902500|04c0b22f-9626-4a08-897e-26e4b2f7ab38|9487ad99-a547-44e6-97e4-11478199ffa7",
-        "solder_mask_bridge|171230000|108902500|04c0b22f-9626-4a08-897e-26e4b2f7ab38|44faf640-fc87-491f-80ea-9cc2cbb48add"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },

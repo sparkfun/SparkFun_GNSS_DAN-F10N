@@ -1,0 +1,15 @@
+2025-04-15 12:30:52,265 - panelizer_logger - INFO - Running Panelizer
+2025-04-15 12:30:52,268 - panelizer_logger - INFO - ['--panelx', '127.000000', '--panely', '127.000000', '--larger', '--vscorelayer', 'User.Comments', '--vscoretextlayer', 'User.Comments', '--gapx', '3.048000', '--gapy', '0.000000', '--hrail', '6.35', '--vrail', '6.35', '--fiducialpos', '0.25', '--fiducialslr']
+2025-04-15 12:30:52,270 - panelizer_logger - INFO - PANELIZER START: 2025-04-15T12:30:52.270580
+2025-04-15 12:30:55,942 - panelizer_logger - WARNING - 
+START: 2025-04-15T12:30:52.270580
+Board saved by user.
+Gaps should be at least 0.3" for AOI.
+Zones filled by Panelizer.
+
+Board: C:/Users/nathan.seidle/Dropbox/Projects/SparkFun_GNSS_DAN-F10N/Hardware\Production\SparkFun_GNSS_DAN-F10N_panelized.kicad_pcb
+Board dimensions: 40.64 x 40.64 mm.
+You can fit 3 x 4 boards on the panel.
+Zones refilled by Panelizer.
+
+2025-04-15 12:30:57,450 - panelizer_logger - INFO - Panelizer complete

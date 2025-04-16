@@ -18825,6 +18825,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Controlled Impedance: JLC04161H-7628"
+		(at 236.22 171.7675 0)
+		(layer "Eco1.User")
+		(uuid "9fba31f2-f6cd-4e95-8ffb-dd8e119729a5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Thickness: 1.6mm"
 		(at 205.74 177.8 0)
 		(layer "Eco1.User")

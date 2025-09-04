@@ -1,0 +1,68 @@
+## Need Assistance?
+
+<!-- Technical Assistance Box -->
+!!! warning "Need Help?"
+	If you need technical assistance or more information on a product that is not working as you expected, we recommend heading on over to the [SparkFun Technical Assistance](https://www.sparkfun.com/technical_assistance) page for some initial troubleshooting. This **Submit Issues** page is not where users should seek assistance.
+
+	<article style="text-align: center;" markdown>
+	[SparkFun Technical Assistance Page](https://www.sparkfun.com/technical_assistance){ .md-button .md-button--primary }
+	</article>
+
+	If you can't find what you need there, the [SparkFun Forums](https://forum.sparkfun.com) is a great place to search the product forums and ask questions.
+
+	!!! info "Account Registration Required"
+		For your first visit to our forum, you'll need to create a [Forum Account](https://forum.sparkfun.com/ucp.php?mode=register) to post questions.
+
+
+## Did we make a mistake?
+Spot something wrong? Please let us know. [![Open Issues Badge](https://img.shields.io/github/issues/sparkfun/SparkFun_GNSS_DAN-F10N.svg)](https://github.com/sparkfun/SparkFun_GNSS_DAN-F10N/issues "Issues")
+
+
+### Discrepancies in the Documentation
+All of our documentation can be modified by you! Please help us make it better.
+
+- The documentation files for these pages are contained in the [`docs` folder](https://github.com/sparkfun/SparkFun_GNSS_DAN-F10N/tree/main/docs) of the [SparkFun GNSS Flex System repository](https://github.com/sparkfun/SparkFun_GNSS_DAN-F10N).
+
+
+#### 🔍 Spot something wrong?
+If a section of the documentation is incorrect, please [open an issue](https://github.com/sparkfun/SparkFun_GNSS_DAN-F10N/issues) and let us know.
+
+#### Do you have a suggested correction?
+
+1. With a GitHub account, [fork this repository](https://github.com/sparkfun/SparkFun_GNSS_DAN-F10N/fork).
+1. Add your correction(s) or improvement(s) to the markdown file(s)
+1. File a pull request with your changes, and enjoy making the ~~words~~ ~~worlds~~ world a better place.
+	- Once received, the documentation specialist will automatically be notified.
+	- We will review your suggested improvement(s) to make sure they are correct and fit within our documentation standards.
+
+
+### Problems in the Hardware Design
+All of our designs are open-source! Please help us make it better.
+
+- Our board design files are contained in the `/Hardware` directories of the [SparkFun GNSS Flex System repository](https://github.com/sparkfun/SparkFun_GNSS_DAN-F10N).
+
+
+#### Does something not make sense? 🤔
+If part of the design is confusing, please [open an issue](https://github.com/sparkfun/SparkFun_GNSS_DAN-F10N/issues) and let us know.
+
+
+#### Did we forget to include an important function of the board? 🤦
+If part of the board's functionality is missing, please [open an issue](https://github.com/sparkfun/SparkFun_GNSS_DAN-F10N/issues) and file a feature request.
+
+!!! tip "Design Considerations"
+	Please keep in mind that we may intentionally exclude certain functions of the board to meet our product design requirements.
+
+	- *For example, our Qwiic Micro boards are intended to fit on a small board layout and only use I^2^C communication; therefore, we may not have the SPI and interrupt pins available for users.*
+
+
+#### Do you wish to contribute directly to improving the board design?
+
+1. With a GitHub account, [fork this repository](https://github.com/sparkfun/SparkFun_GNSS_DAN-F10N/fork).
+1. Add your design augmentation(s)
+1. File a pull request with your changes, and enjoy making the ~~words~~ ~~worlds~~ world a better place.
+	1. Once received, the engineer in charge of the original design will automatically be notified.
+	1. We will review your suggested improvement(s) to verify that they are within our board design standards and meet our product design requirements.
+	1. If approved, we will flag these changes for our next board revision. Congrats! 🍻
+
+		!!! info
+			Even if your suggestion is accepted, these changes may not be immediately available for purchase. We may have to cycle through our current product inventory first.

@@ -18461,7 +18461,7 @@
 		(embedded_fonts no)
 		(model "${SPARKFUN_KICAD_LIBRARY}/Footprints/SparkFun-3D-models/GNSS/u-blox_DAN-F10N.STEP"
 			(offset
-				(xyz -14 -1 -11)
+				(xyz -13.94 -1.1 -10.85)
 			)
 			(scale
 				(xyz 1 1 1)

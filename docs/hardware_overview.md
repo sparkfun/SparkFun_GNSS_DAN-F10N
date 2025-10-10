@@ -688,9 +688,7 @@ There are seven jumpers on the back of the board that can be used to easily modi
 
 <figure markdown>
 [![Jumpers](./assets/img/hookup_guide/jumpers.png){ width="400" }](./assets/img/hookup_guide/jumpers.png "Click to enlarge")
-<figcaption markdown>
-The jumpers on the bottom of the DAN-F10N Dualband L1/L5 GNSS breakout board.
-</figcaption>
+<figcaption markdown>The jumpers on the bottom of the DAN-F10N Dualband L1/L5 GNSS breakout board.</figcaption>
 </figure>
 
 LED Jumpers

@@ -430,7 +430,7 @@ The DAN-F10N module has twelve I/O pins, of which five are programmable. Most of
 
 
 	!!! info "Configuration Settings"
-		The UART interface can be configured with the `CFG-UART1-*` messages, but will initially have the following settings: 
+		The UART interface can be configured with the `CFG-UART1-*` messages, but will initially have the following settings:
 
 		- Baudrate: 9600 to 921600bps *(Default: 38400bps)*
 		- Data Bits: 8
@@ -573,7 +573,7 @@ The DAN-F10N has a single [UART interface](#uart-interface) that can be accessed
 
 
 !!! info "Configuration Settings"
-	The UART interface can be configured with the `CFG-UART1-*` messages, but will initially have the following settings: 
+	The UART interface can be configured with the `CFG-UART1-*` messages, but will initially have the following settings:
 
 	- Baudrate: 9600 to 921600bps *(Default: 38400bps)*
 	- Data Bits: 8
@@ -708,7 +708,7 @@ UART Jumpers
 
 
 	!!! tip
-		A 1k&ohm; resistor is placed on the 
+		A 1k&ohm; resistor is placed on the
 
 
 	- **`RXD`** - This jumper can be cut to disconnect the `RX` signal of the DAN-F10N module from the CH340 USB-to-serial converter.
